@@ -1,4 +1,7 @@
 Hi my name is @DeathWhisper007
-Im junior backedn developer 
-myfocus is on Linux and Python 
+
+Im junior Backend developer 
+
+Myfocus is on Linux and Python
+
 I love CyberSecurity and AI
